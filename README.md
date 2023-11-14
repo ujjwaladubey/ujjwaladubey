@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ujjwaladubey
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning MCA.
+- 👀 I’m interested in coding. 
+- 🌱 I’m DBA currently.
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me through email(ujjwaladubey12@gmail.com)
 
